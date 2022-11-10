@@ -1,0 +1,15 @@
+C:\Users\Emre\Documents\c#\switch_case\bin\Debug\net6.0\switch_case.exe
+C:\Users\Emre\Documents\c#\switch_case\bin\Debug\net6.0\switch_case.deps.json
+C:\Users\Emre\Documents\c#\switch_case\bin\Debug\net6.0\switch_case.runtimeconfig.json
+C:\Users\Emre\Documents\c#\switch_case\bin\Debug\net6.0\switch_case.dll
+C:\Users\Emre\Documents\c#\switch_case\bin\Debug\net6.0\switch_case.pdb
+C:\Users\Emre\Documents\c#\switch_case\obj\Debug\net6.0\switch_case.csproj.AssemblyReference.cache
+C:\Users\Emre\Documents\c#\switch_case\obj\Debug\net6.0\switch_case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Emre\Documents\c#\switch_case\obj\Debug\net6.0\switch_case.AssemblyInfoInputs.cache
+C:\Users\Emre\Documents\c#\switch_case\obj\Debug\net6.0\switch_case.AssemblyInfo.cs
+C:\Users\Emre\Documents\c#\switch_case\obj\Debug\net6.0\switch_case.csproj.CoreCompileInputs.cache
+C:\Users\Emre\Documents\c#\switch_case\obj\Debug\net6.0\switch_case.dll
+C:\Users\Emre\Documents\c#\switch_case\obj\Debug\net6.0\refint\switch_case.dll
+C:\Users\Emre\Documents\c#\switch_case\obj\Debug\net6.0\switch_case.pdb
+C:\Users\Emre\Documents\c#\switch_case\obj\Debug\net6.0\switch_case.genruntimeconfig.cache
+C:\Users\Emre\Documents\c#\switch_case\obj\Debug\net6.0\ref\switch_case.dll
